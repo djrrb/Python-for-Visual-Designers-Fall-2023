@@ -2,6 +2,8 @@
 # note to myself
 # rect(x, y, width, height)
 
+
+
 fill(0, 1, 0)
 stroke(0, 0, 1)
 strokeWidth(10)
