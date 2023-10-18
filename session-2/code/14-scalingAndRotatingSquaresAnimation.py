@@ -6,7 +6,7 @@ myHue = 0 # red
 mySat = 1 # full brilliance
 myVal = 1 # full brightness
 
-mySquareCount = 30 # how many shapes to draw
+mySquareCount = 50 # how many shapes to draw
 myFrameCount = 90 # how many frames to draw
 myScaleValue = .9 # how much to scale by each time
 myRotateValue = 1 # how much to rotate by each time (this will change)

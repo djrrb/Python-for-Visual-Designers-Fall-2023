@@ -4,7 +4,7 @@ blendMode('overlay')
 
 # set up some variables
 myShapeSize = 250 # how big each circle is
-myRadius = 250 # the 
+myRadius = 250 # the distance of each circle from the center of canvas
 myShapeCount = 15 # how many shapes to draw
 
 # move to the center
