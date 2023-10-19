@@ -1,5 +1,4 @@
+# what’s the filename of our image
 myImageName = 'black-raspberries.jpg'
-
-text(myImageName, (0, 0))
-
+# draw the image to canvas
 image(myImageName, (0, 0))
