@@ -1,8 +1,8 @@
 # define a custom function
 def myFunTextEffect(myTextArgument):
-    # everything at this indent will be called
+    # everything at this indent will be run
     # when myFunTextEffect() is called
-    # it doesn’t matter what this does, it’s just a demo
+    # it doesn’t matter what we do in here, it’s just a demo
     
     # loop through 10 numbers
     for myNumber in range(5):
@@ -24,8 +24,10 @@ def myFunTextEffect(myTextArgument):
 translate(100, 100)
 # draw some text using our funky text effect
 # we provide the text to draw as an argument
+# this will run the code in the indented block above
 myFunTextEffect('some text')
 # move up some more
 translate(0, 200)
 # now do more text with our fun effect
+# running the indented code above a second time
 myFunTextEffect('more text')
