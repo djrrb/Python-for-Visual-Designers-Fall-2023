@@ -5,7 +5,7 @@ myHandleLength = 100
 myShapeCount = 8
 myWobble = 350
 
-blendMode('screen')
+#blendMode('screen')
 for myShapeNumber in range(myShapeCount):
     print(myShapeHeight)
     myShape = BezierPath()
