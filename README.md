@@ -54,11 +54,16 @@ Our version of homework; solve a problem and practice the skills we cover in cla
 
 All class sessions are recorded. Links will be added here as the class progresses:
 
-* [Session 1 Recording](), passcode ``
-* [Session 2 Recording](), passcode ``
-* [Session 3 Recording](), passcode ``
-* [Session 4 Recording](), passcode ``
+* [Session 1 Recording](https://cooper.zoom.us/rec/share/Ubt9A4s2x-MfwjOZtKIyX-8W5Z_PoZDgJ2idZz1cmYm5p8-osPOf6pZyQgca_VMB.u-s7hy6OSw7dMn0G), passcode `Qu.4U?Px`
+* [Session 2 Recording](https://cooper.zoom.us/rec/share/SwKG_JfYcpWE8gzcpyl9B8hmpgsosaqxxWuyaVtT3OQnwA1ZKrHrf4nEVtmXc2Ix.zsibvEiRT_4SyElY), passcode `X!mGw@$4`
+* [Session 3 Recording](https://cooper.zoom.us/rec/share/7va-vFhMlEJ_95b9IiK-KoTUt59JGEwPpAF4y4cIOIXjuaiPexroJKuJ_qN0dMm-.CMnXaphxdc9TdxqR), passcode `wFRNW+1=`
+* [Session 4 Recording](https://cooper.zoom.us/rec/share/fhhHnQGVdZF2PwN8b7gEy4FMGyySEGFeiTeloxiz2xuQTzsmRaRJDsiA4UxHgW9p.X96UfcPDe72gCGAt), passcode `^wz7NQn^`
 * [Session 5 Recording](), passcode ``
+
+
+
+
+
 
 
 ## Zine
