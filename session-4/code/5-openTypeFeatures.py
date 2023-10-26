@@ -8,7 +8,18 @@ with open('book.txt', encoding='utf-8') as myFile:
     myText = myFile.read()
 
 # format the text variable as a formatted string
-myString = FormattedString(myText, font='Comic Sans MS', fontSize=40, lineHeight=70, tracking=0, fill=(1, 0, 0))
+myString = FormattedString(
+    myText, 
+    font='Minion Pro', 
+    fontSize=40, 
+    lineHeight=70, 
+    tracking=0, 
+    fill=(1, 0, 0),
+    # define the opentype features as a dictionary
+    # surrounded by curly braces {}
+    # mapping one value to another with a colon :
+    openTypeFeatures={'smcp': True, 'onum': True}
+)
 
 # draw the bounds of our text box so we can seet them
 rect(
