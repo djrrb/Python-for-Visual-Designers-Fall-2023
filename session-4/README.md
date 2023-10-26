@@ -2,7 +2,7 @@
 
 * [**Session 4 code**](/session-4/code)
 * [**Session 4 challenges**](/session-4/challenges)
-* [**Session 4 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Spring-2023#recordings)
+* [**Session 4 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Fall-2023#recordings)
 
 
 ## Python stuff

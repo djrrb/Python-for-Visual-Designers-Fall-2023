@@ -2,7 +2,7 @@
 
 * [**Session 5 code**](/session-5/code)
 * [**Session 5 challenges**](/session-5/challenges)
-* [**Session 5 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Spring-2023#recordings)
+* [**Session 5 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Fall-2023#recordings)
 
 
 ## Rough outline

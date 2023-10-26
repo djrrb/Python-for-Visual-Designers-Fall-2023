@@ -2,7 +2,7 @@
 
 * [**Session 2 code**](/session-2/code)
 * [**Session 2 challenges**](/session-2/challenges)
-* [**Session 2 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Spring-2023#recordings)
+* [**Session 2 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Fall-2023#recordings)
 
 
 ## Rough outline
