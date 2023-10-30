@@ -43,3 +43,9 @@ Make your own Lorem Ipsum generator using `FormattedString()`. You can use words
 Create a `BezierPath()`, and add a bunch of randomly positioned curves with a loop (might be easier to start with straight lines, if you want). Then do this over a series of frames to animate the shape.
 
 ![Bezier path](randomBezierPaths.gif)
+
+## Snakes
+
+Create a series of `BeizerPath()`s that wiggle by a random amount within a certain range.
+
+![Snakes](snakes.gif)
