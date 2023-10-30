@@ -48,4 +48,4 @@ Create a `BezierPath()`, and add a bunch of randomly positioned curves with a lo
 
 Create a series of `BeizerPath()`s that wiggle by a random amount within a certain range.
 
-![Snakes](snakes.gif)
+![Snakes](snakes.png)
