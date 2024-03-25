@@ -5,7 +5,12 @@ linearGradient(
     [(1, 0, 0), (0, 0, 1), (0, 1, 0)],  # colors
     [0, .5, 1]                          # locations
     )
-# draw a rectangle
-shadow((-50, -50), 80, (1, 0, 0))
+# set the shadow value
+shadow(
+    (-50, -50), # offset
+    50, # blur amount, 
+    (1, 1, 0) # color, if not black
+    )
 
+# draw a shape
 rect(100, 100, 500, 500)
